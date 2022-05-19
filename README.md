@@ -1,2 +1,2 @@
-# richdatashets-localfile-java
-Local-file connector framework for Richdatashets (in Java)
+# richsheets-localfile-java
+Local-file connector framework for Richsheets (in Java)
